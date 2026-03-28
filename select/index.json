@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "お洒落番長",
+  "base_artist": "Linmu",
+  "createdAt": "2026-03-28T08:05:21.185467Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "お洒落番長",
+      "artist": "Linmu, Ado",
+      "has_synced": false,
+      "path": "select/pl_01_お洒落番長_Linmu,_Ado.txt"
+    }
+  ]
+}
